@@ -1,0 +1,1 @@
+totalcount sended both pagination and getall responses header for Logs and Actions controllers. 
